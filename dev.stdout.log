@@ -1,0 +1,17 @@
+
+> bondlayer-shopper@0.1.0 dev
+> vite
+
+
+  VITE v8.0.13  ready in 7508 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.56.1:5173/
+  ➜  Network: http://192.168.1.15:5173/
+  ➜  Network: http://172.24.144.1:5173/
+11:54:57 pm [vite] (client) [optimizer] bundling dependencies...
+ GET / 200 in 2.5s (compile: 1787752488.8s, render: 2.4s)
+ GET / 200 in 55ms (compile: 1787752488.8s, render: 32ms)
+ GET /api/agent 200 in 15ms
+ GET / 200 in 49ms (compile: 1787752488.8s, render: 33ms)
+ GET /api/agent 200 in 20ms
